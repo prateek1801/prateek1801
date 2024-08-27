@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P Sai Prateek</h1>
-<h3 align="center"> Data Analytics | Python </h3>
+<h3 align="center"> Data Science | Python Programming </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek1801&label=Profile%20views&color=0e75b6&style=flat" alt="prateek1801" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [GitHub Pull Request Summary](https://github.com/prateek1801/Githubpullsummary)
 
-- 💬 Ask me about **Python | Data Analytics **
+- 💬 Ask me about ** Data Science | Python Programming **
 
 - 📫 How to reach me **prateekpsai@gmail.com**
 
